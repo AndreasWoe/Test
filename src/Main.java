@@ -15,7 +15,7 @@ public class Main {
 
         String dir = "C:\\Users\\andre\\Downloads\\OneDrive";
         String target = "C:\\Users\\andre\\Downloads\\Target";
-        String sd = "Aufgabe 5";
+        String sd = "Aufgabe 14";
 
         try {
             //create target directory if not exists
